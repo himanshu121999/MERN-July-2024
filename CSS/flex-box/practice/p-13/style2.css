@@ -1,0 +1,41 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#container {
+  background-color: gray;
+  padding: 10px;
+}
+
+#header {
+  background-color: lightskyblue;
+  height: 40px;
+}
+
+#main {
+  display: flex;
+}
+
+#left-section {
+  width: 300px;
+  height: 350px;
+  background-color: lightcoral;
+}
+
+#right-top {
+  width: 300px;
+  height: 175px;
+  background-color: lightgreen;
+}
+
+#right-bottom {
+  width: 300px;
+  height: 175px;
+  background-color: lightseagreen;
+}
+
+#footer {
+  height: 60px;
+  background-color: lightgray;
+}

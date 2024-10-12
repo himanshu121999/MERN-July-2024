@@ -1,0 +1,45 @@
+#main-container {
+  display: flex;
+  justify-content: center;
+}
+
+#container {
+  background-color: gray;
+  padding: 10px;
+  width: 600px;
+}
+
+#header {
+  height: 40px;
+  background-color: lightskyblue;
+}
+
+#middle-section {
+  display: flex;
+}
+
+#left-section {
+  height: 350px;
+  width: 300px;
+  background-color: lightcoral;
+}
+
+#right-section {
+  flex-grow: 1;
+}
+
+#right-top-section {
+  height: 175px;
+  background-color: lightgreen;
+}
+
+#right-bottom-section {
+  height: 175px;
+  background-color: lightseagreen;
+}
+
+#footer {
+  height: 60px;
+  background-color: lightgray;
+}
+

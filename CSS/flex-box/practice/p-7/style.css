@@ -1,0 +1,26 @@
+#container {
+  background-color: lightyellow;
+  display: flex;
+  align-items: flex-end;
+  padding: 10px;
+  height: 300px;
+}
+
+.item {
+  height: 100px;
+  width: 100px;
+  color: white;
+  text-align: center;
+}
+
+#item-1 {
+  background-color: lightpink;
+}
+
+#item-2 {
+  background-color: lightgreen;
+}
+
+#item-3 {
+  background-color: lightskyblue;
+}

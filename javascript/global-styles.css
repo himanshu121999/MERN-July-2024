@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.w-screen {
+  width: 100vw;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
+/* Background Colors  */
+.bg-gray-900 {
+  background-color: rgb(32, 32, 32);
+}
+
+/* Text Colors */
+.text-yellow-500 {
+  color: rgb(185, 185, 18);
+}
+
+/* Font sizes */
+.text-3xl {
+font-size: 40px;
+}

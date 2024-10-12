@@ -1,0 +1,28 @@
+#container {
+background-color: beige;
+height:400px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+
+.item {
+  width: 100px;
+  height: 100px;
+  color: white;
+}
+
+#item-1 {
+  background-color: lightskyblue;
+}
+
+#item-2 {
+  background-color: lightcoral;
+}
+
+#item-3 {
+  background-color: lightseagreen;
+
+}
+

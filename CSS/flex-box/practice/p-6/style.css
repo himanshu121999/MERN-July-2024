@@ -1,0 +1,25 @@
+#container {
+  background-color: lightyellow;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
+.item {
+  height: 100px;
+  width: 100px;
+  color: white;
+  text-align: center;
+}
+
+#item-1 {
+  background-color: lightpink;
+}
+
+#item-2 {
+  background-color: lightgreen;
+}
+
+#item-3 {
+  background-color: lightskyblue;
+}

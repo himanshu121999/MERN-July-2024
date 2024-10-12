@@ -1,0 +1,25 @@
+#card {
+  height: 100px;
+  width: 100px;
+  background-color: salmon;
+  border-radius: 5px;
+  transition: all 1s linear;
+}
+
+#box {
+  height: 100px;
+  width: 100px;
+  background-color: lightgreen;
+}
+
+#card:hover + #box{
+
+  /* translate */
+
+  /* rotate */
+
+  /* transform: skewY(45deg); */
+
+  background-color: lightpink;
+}
+

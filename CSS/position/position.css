@@ -1,0 +1,18 @@
+#first {
+ height: 100px;
+ width: 100px;
+ background-color: yellow;
+
+}
+
+#sec {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  position: sticky;
+  top: 0px;
+}
+
+body {
+  height: 2000px;
+}
