@@ -1,0 +1,34 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.navbar {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 24px;
+}
+
+.main-section {
+  flex-grow: 1;
+  background-color: lightcoral;
+}
+
+.nav-list {
+  display: flex;
+  gap: 16px;
+  list-style: none;
+}
+
+.logo {
+  height: 60px;
+  width: 60px;
+}
